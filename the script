@@ -1,0 +1,8 @@
+elseif game.PlaceId == 2753915549 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/domina-teres/Wry-Hub/main/Blox%20Fruits"))()
+
+elseif game.PlaceId == 1458767429 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/domina-teres/Wry-Hub/main/aba"))()
+
+
+-- more Coming so...
